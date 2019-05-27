@@ -2,8 +2,8 @@
 ---
 
 Basic React Counter App with Local Storage cookie saving integrated.
+*npm i* in the terminal to install dependencies and use *npm start* to run the App.
 
-_npm i_ in the terminal to install dependencies and use *npm start* to run the App.
 ---
 
 ## Checking Local Storage
